@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Net Creativity</string>
+
+
+
+    <string name="state_no_permission">Can\'t Open the Website without this Permission</string>
+    <string name="state_no_internet">Please, Check your Internet Connection</string>
+
+
+    <string name="button_refresh"><u>Refresh</u></string>
+    <string name="button_accept_permission"><u>Accept Permission</u></string>
+
+</resources>
